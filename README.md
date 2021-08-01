@@ -1,2 +1,3 @@
-# TheDeep
-My Portfolio, everything related to about me such as personal details and Resume. 
+# The×͜ ×Deep ☺
+«The e-commerce webpage»
+This is my First collage project of Web Technology.
